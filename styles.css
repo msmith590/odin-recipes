@@ -1,6 +1,9 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(255, 175, 77);
+  background-color: rgb(37, 37, 37);
+  color: white;
+  margin: 0px;
+  padding: 0px;
 }
 
 h1,
@@ -9,6 +12,8 @@ h2 {
   color: rgb(255, 0, 230);
   font-size: 50px;
   text-align: center;
+  padding: 10px;
+  margin: 30px;
 }
 
 h2 {
@@ -18,13 +23,24 @@ h2 {
 ul,
 ol {
   font-size: 18px;
+  margin: 30px;
 }
 
 p {
   font-size: 20px;
+  margin: 30px;
 }
 
 img {
   width: auto;
   height: 400px;
+}
+
+.recipe {
+  color: aqua;
+  background-color: beige;
+  font-size: 24px;
+  text-align: center;
+  padding: 1em;
+  margin: 10px 30%;
 }
