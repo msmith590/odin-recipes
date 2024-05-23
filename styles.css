@@ -14,6 +14,7 @@ h2 {
   text-align: center;
   padding: 10px;
   margin: 30px;
+  border: 8px solid blueviolet;
 }
 
 h2 {
@@ -38,9 +39,10 @@ img {
 
 .recipe {
   color: aqua;
-  background-color: beige;
+  background-color: white;
   font-size: 24px;
   text-align: center;
   padding: 1em;
   margin: 10px 30%;
+  border: 5px solid blueviolet;
 }
